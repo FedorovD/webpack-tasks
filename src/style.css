@@ -1,0 +1,9 @@
+     @font-face {
+     font-family: 'Slabo-Regular';
+     src: url('./Slabo-Regular.ttf') format('ttf');
+    }
+     .hello {
+         color: red;
+         font-family: 'Slabo-Regular', sans-serif;
+         background: url('./icon.png');
+     }
