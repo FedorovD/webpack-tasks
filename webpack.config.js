@@ -7,7 +7,7 @@ module.exports = {
   },
   plugins: [
     new HTMLWebpackPlugin({
-      title: 'Code Splitting'
+      title: 'Lazy Loading'
         })
   ],
   output: {
